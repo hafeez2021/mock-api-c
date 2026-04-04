@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mock_api_c": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7294",
+      "launchBrowser": false
+    }
+  }
+}
